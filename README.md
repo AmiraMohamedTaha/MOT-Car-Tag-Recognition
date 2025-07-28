@@ -1,4 +1,3 @@
-# Car Entrance:
 
 <img width="1142" height="928" alt="image" src="https://github.com/user-attachments/assets/5b195d63-f291-440c-9788-5298f3b6cede" />
 
